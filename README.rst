@@ -173,3 +173,8 @@ v0.3 (2009-07-22):
 
       This might be **backwards incompatible** as you did not need to assign add/delete
       permissions before!
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/bearstech/django-attachments
+   :target: https://gitter.im/bearstech/django-attachments?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
